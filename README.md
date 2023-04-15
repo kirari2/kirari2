@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirari2
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R 🔵 and Python 🐍!
 
 <!---
 kirari2/kirari2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
